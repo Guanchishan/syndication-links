@@ -2,3 +2,4 @@ node_modules/*
 sass/.sass-cache/*
 vendor/*
 *.scssc
+syndication-links.ffs_gui
