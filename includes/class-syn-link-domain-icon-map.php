@@ -33,6 +33,17 @@ class Syn_Link_Domain_Icon_Map {
 		'news.indieweb.org'   => 'indieweb',
 		'bsky.app'            => 'bsky',
 		'bsky.social'         => 'bsky',
+		'alive.bar'           => 'mastodon',
+		'hyan.ink'            => 'mastodon',
+		'digforfire.org'      => 'mastodon',
+		'moresci.sale'        => 'mastodon',
+		'liker.social'        => 'mastodon',
+		'chatan.cc'           => 'firefish',
+		'ocooo.ooo'           => 'firefish',
+		'sanguok.com'         => 'wordpress',
+		'shoko.one'           => 'bookwyrm',
+		'library.chatan.cc'   => 'bookwyrm',
+		'note.chatan.cc'      => 'joplin',
 
 	);
 

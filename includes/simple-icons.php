@@ -343,6 +343,7 @@ function simpleicons_syn_get_names() {
 		'bookstack'                      => 'BookStack',
 		'bookalope'                      => 'Bookalope',
 		'bookmeter'                      => 'Bookmeter',
+		'bookwyrm'                       => 'Bookwyrm',
 		'boost'                          => 'Boost',
 		'boots'                          => 'Boots',
 		'bootstrap'                      => 'Bootstrap',
