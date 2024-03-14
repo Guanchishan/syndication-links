@@ -43,7 +43,6 @@ class Syn_Link_Domain_Icon_Map {
 		'sanguok.com'         => 'wordpress',
 		'shoko.one'           => 'bookwyrm',
 		'library.chatan.cc'   => 'bookwyrm',
-		'note.chatan.cc'      => 'joplin',
 
 	);
 
